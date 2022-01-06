@@ -1,7 +1,7 @@
 # Ilmi-Tabassum.github.io
 
 To know more about me visit:
-This is a dynamic website using:
+This is my dynamic website using:
 
 
 
